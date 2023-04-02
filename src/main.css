@@ -1,0 +1,9 @@
+@import 'normalize.css';
+
+#root {
+    margin: 2rem;
+}
+
+body {
+    background-color: #fafafa;
+}
